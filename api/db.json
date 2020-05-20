@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "piyush",
+      "description": "deulkar",
+      "id": 1
+    },
+    {
+      "title": "First",
+      "description": "This is my first stream",
+      "id": 2
+    },
+    {
+      "title": "Mayura Stream",
+      "description": "This stream is created by Mayura",
+      "userId": "116089301157679481336",
+      "id": 4
+    },
+    {
+      "title": "Reusing code for edit",
+      "description": "This stream is edited. please check",
+      "id": 6
+    },
+    {
+      "title": "Test",
+      "description": "test",
+      "userId": "109527063157627620865",
+      "id": 7
+    }
+  ]
+}
